@@ -17,7 +17,7 @@
 1. Bu projeyi bilgisayarınıza klonlayın veya indirin.
 
     ```bash
-    git clone https://github.com/KullaniciAdi/RepoAdi.git
+    git clone https://github.com/Eren0zer/MVC-URL-Shortener.git
     ```
 
 2. Proje dizinine gidin.
